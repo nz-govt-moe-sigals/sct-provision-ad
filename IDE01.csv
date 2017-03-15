@@ -1,0 +1,3 @@
+mlepSmsPersonId,mlepStudentNSN,mlepUsername,mlepFirstAttending,mlepLastAttendance,mlepFirstName,mlepLastName,mlepPreferredName,mlepDOB,mlepGender,mlepRole,mlepAssociatedNSN,mlepEmail,mlepOrganisation,mlepGroupMembership,mlepHomeGroup
+001,12345,JSmith01,1/27/2014,,James,Smith,,1/03/2000,M,Student,,jsmith01@boxedbrains.com,boxedbrains.com,Year 12#Grp01#Grp02,Grp01
+002,23456,BSmith01,1/27/2014,,Betty,Smith,,2/04/2000,F,Student,,bsmith01@boxedbrains.com,boxedbrains.com,Year 12#Grp03#Grp04,Grp03
